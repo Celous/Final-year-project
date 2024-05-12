@@ -1,14 +1,5 @@
 # MERN Ecommerce Application
 
-<code>Currently under construction for additional features</code>
-
-# Description
-
-Full-stack ecommerce application built with MERN stack. This project has two features:
-
-1. Buyers register and browse the marketplace while interacting with products across different categories.
-2. Admins control and manage the marketplace items and customer acounts.
-
 # Getting Started
 
 ## Dependencies
@@ -24,9 +15,6 @@ Full-stack ecommerce application built with MERN stack. This project has two fea
 After you cloned the repository do not start the application. To run the application fully you need to create a database and collection and provide your own database URI.
 
 ### Setup
-
-- Go to MongoDB website and create a database and a collection named 'Items' and insert the data in the <code>server/ItemsCollection.js</code> file as a document.
-- Create a .env file in the server folder and type the following
 
 ```
     NODE_ENV = development
@@ -53,3 +41,4 @@ After this you can run the project locally:
 - [Expressjs](https://expressjs.com)
 - [Mongoose](https://mongoosejs.com)
 - [Material UI](https://mui.com/)
+
